@@ -1,4 +1,4 @@
-aspose-words==23.2.0
+aspose-words
 contourpy==1.0.7
 cycler==0.11.0
 fonttools==4.39.0
