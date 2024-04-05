@@ -22,3 +22,4 @@ for i in range(count):
     plt.imshow(images[i])
  
 plt.show()
+cv2.imwrite("C:\Users\example\Downloads\resizedexample.png", stretch_near)
